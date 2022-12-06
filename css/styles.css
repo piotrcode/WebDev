@@ -1,0 +1,17 @@
+body {
+    background-color: #F2E5E5;
+}
+
+hr {
+    border-width: 5px;
+    border-style: dotted none none;
+    width: 5%;
+}
+
+th, td {
+    padding: 5px;
+}
+
+img {
+    border-radius: 10%;
+}
